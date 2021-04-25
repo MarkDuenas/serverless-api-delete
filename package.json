@@ -1,0 +1,23 @@
+{
+  "name": "serverless-api-delete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkDuenas/serverless-api-delete.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkDuenas/serverless-api-delete/issues"
+  },
+  "homepage": "https://github.com/MarkDuenas/serverless-api-delete#readme",
+  "dependencies": {
+    "dynamoose": "^2.7.3"
+  }
+}
